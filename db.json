@@ -1,0 +1,59 @@
+{
+  "minions": [{
+      "id": 400,
+      "name": "Wind-up Porom",
+      "description": "Summon forth your wind-up Porom minion. The rosy cheeks and pronounced eyelashes indicate that this is the female half of a matching pair.",
+      "enhanced_description": "Created in the likeness of Porom, twin sister to Palom. According to legend, they were sent by the elder of their village to aid in an epic quest to save the world, which seems like a bit of a tall order for two five-year olds. Perhaps the other mages had more important matters to take care of?",
+      "tooltip": "This isn't a picnic we're going on, Palom.    - Porom",
+      "patch": "6.0",
+      "item_id": null,
+      "image": "https://ffxivcollect.com/images/minions/large/400.png",
+      "icon": "https://ffxivcollect.com/images/minions/small/400.png",
+      "owned": "2.5%"
+    },
+    {
+      "id": 436,
+      "name": "Adventure Basket",
+      "description": "Summon your adventure basket minion. Because no one should have to save the world on an empty stomach.",
+      "enhanced_description": "Be it a frozen waste or a volcano's fiery bowels, no matter where your adventures take you, this basket laden with tasty morsels will nourish your body while lifting your spirit. Cutlery and crockery included for your consuming convenience.",
+      "tooltip": "This is a picnic compared to my officer training...    - Dancing Wolf",
+      "patch": "6.0",
+      "item_id": 35984,
+      "image": "https://ffxivcollect.com/images/minions/large/436.png",
+      "icon": "https://ffxivcollect.com/images/minions/small/436.png",
+      "owned": "0%"
+    },
+    {
+      "id": 437,
+      "name": "Golden Dhyata",
+      "description": "Summon your Golden Dhyata minion. Is it a bird? Is it a fish? No, it's a translation device!",
+      "enhanced_description": "A faithful replica of the artifact being studied by Professor Rurusha, this translation device is believed to have been created in the likeness of a catfish. However, none can say why the ancients chose such a whimsical form for it.",
+      "tooltip": "Something lost in translation, perhaps?    - Jenomis",
+      "patch": "6.0",
+      "image": "https://ffxivcollect.com/images/minions/large/437.png",
+      "icon": "https://ffxivcollect.com/images/minions/small/437.png",
+      "owned": "0%"
+    }, {
+      "id": 425,
+      "name": "Optimus Omicron",
+      "description": "Summon your optimus Omicron minion. Minimum proportions, maximum performance.",
+      "enhanced_description": "As part of an initiative to downsize themselves, the Omicrons created this miniaturized, full-featured unit as a test prototype. Alas, the siege matrix Stigma-4 ceased to function shortly thereafter, and it never reached the mass production stage.",
+      "tooltip": "I prefer foes to be more compact like myself─tiny, puny, compact.    - 269th Order Mendicant Da Za",
+      "patch": "6.0",
+      "item_id": 35973,
+      "image": "https://ffxivcollect.com/images/minions/large/425.png",
+      "icon": "https://ffxivcollect.com/images/minions/small/425.png"
+    }, {
+      "id": 427,
+      "name": "Starbird",
+      "description": "Summon your starbird minion. Gazing up at the stars in the heavens, it ever sings a song of hope.",
+      "enhanced_description": "A beautiful blue bird whose features are reminiscent of the star-faring creation Meteion. So long as hope abides in its master's heart, never shall its plumage take on the black of despair.",
+      "tooltip": "Birds of a feather are we!    - X'rhun Tia",
+      "patch": "6.0",
+      "image": "https://ffxivcollect.com/images/minions/large/427.png",
+      "icon": "https://ffxivcollect.com/images/minions/small/427.png",
+      "owned": "0.1%",
+      "sources": []
+    }
+  ]
+}
